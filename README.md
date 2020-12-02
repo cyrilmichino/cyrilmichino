@@ -7,4 +7,4 @@ Match with peers and code collaboratively at [Chaptr Devlabs](https://chaptr.dev
 
 **Follow me** or **reach me** on the following channels: *(Click badge to go to access profile link)*
 
-[<img src="https://img.shields.io/badge/@cyrilmichinoC%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/@cyrilmichinoC) [<img src="https://img.shields.io/badge/cyrilmichino%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/cyrilmichino) [<img src="https://img.shields.io/badge/cyrilmichino@gmail.com%20-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cyrilmichino@gmail.com)
+[<img src="https://img.shields.io/badge/@cyrilmichino%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/@cyrilmichino) [<img src="https://img.shields.io/badge/cyrilmichino%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/cyrilmichino) [<img src="https://img.shields.io/badge/cyrilmichino@gmail.com%20-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cyrilmichino@gmail.com)
