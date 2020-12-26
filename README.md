@@ -5,6 +5,6 @@
 
 Match with peers and code collaboratively at [Chaptr Devlabs](https://chaptr.dev) | Learn Data Science and Web Development with [Chaptr Bootcamps Africa](https://chaptrglobal.com) | Technology Podcast Coming Soon 👋
 
-**Follow me** or **reach me** on the following channels: *(Click badge to go to access profile link)*
+**Follow me** or **reach me** on the following channels: *(Click badge to access profile link)*
 
 [<img src="https://img.shields.io/badge/@cyrilmichino%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/@cyrilmichino) [<img src="https://img.shields.io/badge/cyrilmichino%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/cyrilmichino) [<img src="https://img.shields.io/badge/cyrilmichino@gmail.com%20-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cyrilmichino@gmail.com)
