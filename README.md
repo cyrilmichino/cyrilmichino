@@ -1,10 +1,11 @@
-### Founder and CEO at Chaptr Global
-#### Democratising access to quality technical education | Championing income-share agreements in Africa
+### Co-founder and CEO at Chaptr Global
+#### Democratising access to quality technical education | Championing learn now, pay later in Africa
+I am currently building [Chaptr Global](https://chaptrglobal.com). Chaptr is a venture that services/faciliatates learn now, pay later financing options for schools in Africa. This could be either income-share agreements (pay once you are earning) or flexible payments (pay in smaller instalments gradually over a long period of time). I work primarily on Credit Risk Analysis where we build models focused on student financing problems.
 
-Discover coding bootcamps offering income-share agreements in place of upfront payments by visiting [the Chaptr Global website](https://chaptrglobal.com). Chaptr partners with top coding bootcamps to design income-share programs allowing budding developers to **pay what they can afford, learn first, and pay the rest gradually once they are earning**. We are soon launching the Chaptr Alma NFT that allows individuals to invest in income-share contracts, allowing students to afford tuition fees, and eventually get returns from the income-share payments made by a student. Learn more from [the Chaptr Alma Website](https://alma.chaptrglobal.com). If interested in working wih Chaptr as a Data Scientist, Software Engineer, or Blockchain Developer, and help us democraise access to quality technical education, [learn more about our open jobs](https://chaptrglobal.com/careers).
+Previously built [Zindua School](https://zinduaschool.com). Zindua is a coding school that upskills young Africans into in-demand technology careers i.e. Data Science and Software Development. Zindua operates primarily in Kenya but will be expanding across Africa in the near future. Zindua offers open-source curriculums for tech educators on its [Github Organisation](https://github.com/zinduaschool) and aklso leverages open-source content to offer free foundational courses to beginners looking to get into tech.
 
 ### Personal Tech Background
-#### Data Science | Web Development | Tech Educator/Content Creator
+#### Data Science | Data Engineering | Tech Educator/Content Creator
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23000.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
 
