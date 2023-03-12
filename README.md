@@ -1,8 +1,8 @@
 ### Co-founder and CEO at Chaptr Global
 #### Democratising access to quality technical education | Championing learn now, pay later in Africa
-I am currently building [Chaptr Global](https://chaptrglobal.com). Chaptr is a venture that services/faciliatates learn now, pay later financing options for schools in Africa. This could be either income-share agreements (pay once you are earning) or flexible payments (pay in smaller instalments gradually over a long period of time). I work primarily on Credit Risk Analysis where we build models focused on student financing problems.
+I am currently building [Chaptr Global](https://chaptrglobal.com). Chaptr is a venture that services/facilitates learn now, pay later financing options for schools in Africa. This could be either income-share agreements (pay once you are earning) or flexible payments (pay in smaller instalments gradually over a long period of time). I work primarily on Credit Risk Analysis where I build models focused on student financing problems.
 
-Previously built [Zindua School](https://zinduaschool.com). Zindua is a coding school that upskills young Africans into in-demand technology careers i.e. Data Science and Software Development. Zindua operates primarily in Kenya but will be expanding across Africa in the near future. Zindua offers open-source curriculums for tech educators on its [Github Organisation](https://github.com/zinduaschool) and aklso leverages open-source content to offer free foundational courses to beginners looking to get into tech.
+Previously built [Zindua School](https://zinduaschool.com). Zindua is a coding school that upskills young Africans into in-demand technology careers i.e. Data Science and Software Development. Zindua operates primarily in Kenya but will be expanding across Africa in the near future. Zindua offers open-source curriculums for tech educators on its [Github Organisation](https://github.com/zinduaschool) and also leverages open-source content to offer free foundational courses to beginners looking to get into tech.
 
 ### Personal Tech Background
 #### Data Science | Data Engineering | Tech Educator/Content Creator
